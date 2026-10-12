@@ -1,6 +1,6 @@
-# [SITE NAME] — static affiliate blog starter
+# [SITE NAME] — independent music & culture starter
 
-A polished, responsive starter site built with plain HTML, CSS, and JavaScript. It has no build step, framework, or required paid service. Open the folder in Visual Studio Code and edit the files directly.
+A bold, responsive music and entertainment editorial starter built with plain HTML, CSS, and JavaScript. It has no build step, framework, or required paid service. Open the folder in Visual Studio Code and edit the files directly.
 
 > **Before publishing:** Search for bracketed placeholders such as `[SITE NAME]`, `[YOUR-DOMAIN]`, `[YOUR-EMAIL]`, `[AUTHOR NAME]`, and `[MONTH YEAR]` and replace them. Sample article copy is a structure to customize, not verified advice. Example affiliate URLs are nonfunctional placeholders and are not real recommendations or relationships. Review the disclosure and privacy pages for accuracy before launch.
 
