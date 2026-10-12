@@ -1,8 +1,8 @@
-# [SITE NAME] — independent music & culture starter
+# Music Enthusiasts — independent music & culture starter
 
 A bold, responsive music and entertainment editorial starter built with plain HTML, CSS, and JavaScript. It has no build step, framework, or required paid service. Open the folder in Visual Studio Code and edit the files directly.
 
-> **Before publishing:** Search for bracketed placeholders such as `[SITE NAME]`, `[YOUR-DOMAIN]`, `[YOUR-EMAIL]`, `[AUTHOR NAME]`, and `[MONTH YEAR]` and replace them. Sample article copy is a structure to customize, not verified advice. Example affiliate URLs are nonfunctional placeholders and are not real recommendations or relationships. Review the disclosure and privacy pages for accuracy before launch.
+> **Before publishing:** Search for bracketed placeholders such as `[YOUR-DOMAIN]`, `[YOUR-EMAIL]`, `[AUTHOR NAME]`, and `[MONTH YEAR]` and replace them. Sample article copy is a structure to customize, not verified advice. Example affiliate URLs are nonfunctional placeholders and are not real recommendations or relationships. Review the disclosure and privacy pages for accuracy before launch.
 
 ## What’s included
 
@@ -21,6 +21,12 @@ static-affiliate-blog-starter/
 │   ├── guide-one.html
 │   ├── guide-two.html
 │   └── guide-three.html
+│   ├── beat-breakdown.html
+│   ├── underground-radar.html
+│   ├── music-business.html
+│   ├── top-ten.html
+│   ├── review-template.html
+│   └── crate-dig.html
 ├── css/
 │   └── style.css
 ├── js/
@@ -39,7 +45,7 @@ static-affiliate-blog-starter/
 ## Customize before publishing
 
 1. Pick your site name, topic, author name, contact email, and canonical domain. Replace the bracketed placeholders across all files.
-2. Replace sample copy with original, accurate material. Verify current product details and cite trustworthy sources where useful. Don’t claim testing, credentials, or results you haven’t established.
+2. Replace sample copy with original, accurate material. Verify current product details and cite trustworthy sources where useful. Don’t claim testing, credentials, or results you haven’t established. For beat breakdowns, verify sample and production credits; an audible resemblance alone does not prove a sample source.
 3. Add your own optimized images in `images/`; update page markup with the correct relative paths and useful alt text.
 4. Replace example resource URLs with your actual destination links. Use `rel="sponsored nofollow noopener"` for paid or affiliate links that open in a new tab, and disclose the relationship clearly near relevant recommendations.
 5. Customize the privacy policy and affiliate disclosure to match your actual practices and audience. The included examples are starter copy, not legal advice.
